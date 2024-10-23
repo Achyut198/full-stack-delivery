@@ -14,3 +14,4 @@ __pycache__/
 
 # Other files
 .DS_Store
+frontend/vehicle-service-frontend
