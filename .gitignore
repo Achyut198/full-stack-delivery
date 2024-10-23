@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+/build
+/.env
+
+# Python
+*.pyc
+__pycache__/
+*.sqlite3
+
+# Other files
+.DS_Store
